@@ -2,6 +2,9 @@
 
 This repository contains a Go application for managing products and their prices, including functionalities for CRUD operations and seeding the database with initial data.
 
+## Project Submission
+The Assignment submission and updates are added [here](./README-Submission.md)
+
 ## Project Structure
 
 1. **cmd/**: Contains the main application and seed command entry points.
